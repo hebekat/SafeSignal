@@ -1,5 +1,5 @@
 # SafeSignal
-Team: TeamTeam's entry to the TomTom.NeXt Hackathon
+Team: TeamTeam's entry to the [TomTom.NeXt Hackathon](https://www.tomtom.com/careers/global-student-hackathon/)
 
 SafeSignal is a fast and easy method for groups of motorcyclist to communicate.
 Simple gestures will trigger alarm/popus on the devices of your groupmates.
