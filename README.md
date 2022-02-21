@@ -12,6 +12,7 @@ To see the implementation of the prototype's functionalities see the '.cs' files
 ## SafeSignal won the 3rd place!
 
 TeamTeam's members:
-  [hebekat](https://github.com/hebekat)
-  [XEDGit](https://github.com/XEDGit)
-  [SwenneHacks](https://github.com/SwenneHacks)
+  * [hebekat](https://github.com/hebekat)
+  * [XEDGit](https://github.com/XEDGit)
+  * [SwenneHacks](https://github.com/SwenneHacks)
+  * [ciuckc](https://github.com/ciuckc)
