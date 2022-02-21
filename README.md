@@ -9,4 +9,4 @@ We created this prototype in the platform UNITY to demonstrate how the features 
 To see the implementation of the prototype see the *.cs files.
 
 
-##SafeSignal won the 3rd place!
+## SafeSignal won the 3rd place!
